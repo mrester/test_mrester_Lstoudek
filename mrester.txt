@@ -1,0 +1,9 @@
+git clone https://github.com/mrester/test_mrester_Lstoudek
+
+#mrester.txt erstellt
+
+git add mrester.txt
+
+git commit
+
+git push
